@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\bin\Debug\net6.0\ByteBankArquivos.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\bin\Debug\net6.0\ByteBankArquivos.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\bin\Debug\net6.0\ByteBankArquivos.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\bin\Debug\net6.0\ByteBankArquivos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\bin\Debug\net6.0\ByteBankArquivos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\obj\Debug\net6.0\ByteBankArquivos.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\obj\Debug\net6.0\ByteBankArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\obj\Debug\net6.0\ByteBankArquivos.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\obj\Debug\net6.0\ByteBankArquivos.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\obj\Debug\net6.0\ByteBankArquivos.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\obj\Debug\net6.0\ByteBankArquivos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\obj\Debug\net6.0\refint\ByteBankArquivos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\obj\Debug\net6.0\ByteBankArquivos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\obj\Debug\net6.0\ByteBankArquivos.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Arquivos\ByteBankArquivos\obj\Debug\net6.0\ref\ByteBankArquivos.dll
