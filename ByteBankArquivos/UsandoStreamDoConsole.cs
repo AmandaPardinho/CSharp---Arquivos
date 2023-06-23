@@ -13,7 +13,7 @@ namespace ByteBankArquivos
              * permite ler o que o usuário digitou no console
              */
             using (var fluxoEntrada = Console.OpenStandardInput())
-            using(var fs = new FileStream("entradaConsole.txt", FileMode.Create))
+            using(var fs = new FileStream("entradaConsole.docx", FileMode.Create))
             {
                 var buffer = new byte[1024]; //1kb
 
