@@ -26,7 +26,7 @@ namespace ByteBankArquivos
                 throw new ArgumentException("Valor de saque deve ser maior que zero", nameof(valor));
             }
 
-            if(valor > Saldo)
+            if(valor <= 0)
             {
                 throw new InvalidOperationException("Saldo insuficiente");
             }
