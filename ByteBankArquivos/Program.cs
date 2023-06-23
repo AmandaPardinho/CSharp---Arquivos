@@ -9,7 +9,7 @@ namespace ByteBankArquivos
     {
         static void Main(string[] args)
         {
-            CriarArquivo();
+            TestaEscrita();
             Console.ReadKey();
         }
     }
