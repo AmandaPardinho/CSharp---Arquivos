@@ -9,12 +9,10 @@ namespace ByteBankArquivos
     {
         static void Main(string[] args)
         {
-            EscritaBinaria();
-            LeituraBinaria();
-
+            UsarStreamEntrada();
             Console.WriteLine("Aplicação Finalizada");
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
